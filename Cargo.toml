@@ -1,0 +1,3 @@
+[workspace]
+members = ["alogrithms/*", "data-collections/*", "axum/*"]
+resolver = "2"
