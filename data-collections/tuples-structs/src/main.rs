@@ -1,5 +1,5 @@
 fn main() {
-    // tuple of lenght 5
+    // tuple of lenght 3
     let tuple_a = ('A', 7u8, false);
 
     // classic struct with named fields
